@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercise_2</string>
+    <string name="action_settings">Settings</string>
+    <string name="kilogram">Kilogram</string>
+    <string name="height">Height</string>
+    <string name="result">Result</string>
+    <string name="calculate">Calculate</string>
+    <string name="BMI_Calculate">BMI Calculator</string>
+</resources>

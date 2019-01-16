@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercise_2</string>
+    <string name="action_settings">Innstillinger</string>
+    <string name="kilogram">Kilogram</string>
+    <string name="height">Høyde</string>
+    <string name="result">Resultat</string>
+    <string name="calculate">Regn ut</string>
+    <string name="BMI_Calculate">BMI Kalkulator</string>
+</resources>
